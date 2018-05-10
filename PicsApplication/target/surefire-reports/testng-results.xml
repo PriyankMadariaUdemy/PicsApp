@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="picsapplication.PicsTest" duration-ms="22109" started-at="2018-05-09T08:34:59Z" finished-at="2018-05-09T08:35:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="22109" started-at="2018-05-09T08:34:59Z" finished-at="2018-05-09T08:35:21Z">
+      <class name="picsapplication.PicsTest">
+        <test-method status="PASS" signature="Chrome()[pri:0, instance:picsapplication.PicsTest@edf4efb]" name="Chrome" duration-ms="16412" started-at="2018-05-09T14:04:59Z" finished-at="2018-05-09T14:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chrome -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:picsapplication.PicsTest@edf4efb]" name="Login" duration-ms="5677" started-at="2018-05-09T14:05:16Z" finished-at="2018-05-09T14:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- picsapplication.PicsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- picsapplication.PicsTest -->
+</testng-results>
